@@ -1,1 +1,0 @@
-# discreet_math_lab1
